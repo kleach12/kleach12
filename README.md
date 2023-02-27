@@ -9,5 +9,5 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I played a professional sport
 
-[![Kale's GitHub stats](https://github-readme-stats.vercel.app/api?username=kleach12)](https://github.com/anuraghazra/github-readme-stats)
+[![Kale's GitHub stats](https://github-readme-stats.vercel.app/api?username=kleach12&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
