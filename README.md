@@ -2,7 +2,7 @@
 
 <h2> About Me </h2>
 Hello my name is Kale (just like the vegetable) and I am Full Stack Developer currently completing Flatiron School bootcamp.
-<h3> What i know </h3>
+<h3> What I Know </h3>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
