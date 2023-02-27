@@ -8,7 +8,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I played a professional sport
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleach12&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleach12&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![Kale's GitHub stats](https://github-readme-stats.vercel.app/api?username=kleach12&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
