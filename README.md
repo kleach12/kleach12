@@ -1,7 +1,7 @@
 <h1> Hi there 👋 </h1>
 
 <h2> About Me </h2>
-
+Hello my name is Kale (just like the vegetable) and I am Full Stack Developer currently completing Flatiron School bootcamp.
 <h3> What i know </h3>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -27,7 +27,7 @@
 - ⚡ Fun fact: I played a professional sport
  -->
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleach12&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleach12&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 [![Kale's GitHub stats](https://github-readme-stats.vercel.app/api?username=kleach12&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
