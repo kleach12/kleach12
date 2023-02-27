@@ -4,7 +4,7 @@
 
 <h3> What i know </h3>
 
-	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <!-- - 🔭 I’m currently working on IRL a social media web application that allows for people to join random groups and meet new people
 - 🌱 I’m currently learning full stack development
