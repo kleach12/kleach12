@@ -1,7 +1,7 @@
 <h1> Hi there 👋 </h1>
 
 <h2> About Me </h2>
-Hello my name is Kale (just like the vegetable) and I am Full Stack Developer currently completing the Flatiron School bootcamp.
+Hello my name is Kale and I am currently learning Java.
 <h3> What I Know </h3>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
